@@ -1,7 +1,7 @@
 # GMCv2-Shooting-Component
 Expansion of the General Movement Component V2 hitscan demo, incorporating core features for shooting as well as basic projectile support.
 
-Incorporates a weapon structure and class system for multiple weapon types that can be easily swapped over the network. This does not include swapping weapon models and VFX, but implementing it in your projects should be straightforward.
+Incorporates a weapon structure and class system for multiple weapon types that can be easily swapped over the network. This does not include swapping weapon models and VFX, but implementing it in your projects should be straightforward. Also, implementing the weapons as class references is purely an example of a possible implementation, you may want to spawn actors instead, or alternatively use pure data, depending on your specific implementation and use case.
 
 I consider this feature-complete and don't plan to tinker with this further (outside of specific implementations in my own projects). 
 
